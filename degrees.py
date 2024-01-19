@@ -1,6 +1,5 @@
 import csv
 import sys
-from typing import Self
 
 from util import Node, StackFrontier, QueueFrontier
 
